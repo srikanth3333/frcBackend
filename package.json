@@ -1,0 +1,31 @@
+{
+  "name": "toolx-backend",
+  "version": "1.0.0",
+  "description": "E-Commerce Store Setup",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "firebase": "^8.4.1",
+    "firebase-admin": "^9.6.0",
+    "http": "^0.0.1-security",
+    "joi": "^17.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm install & node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/firefighters2/toolx-backend.git"
+  },
+  "keywords": [
+    "toolx"
+  ],
+  "author": "Dharma Teja Kanneganti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/firefighters2/toolx-backend/issues"
+  },
+  "homepage": "https://gitlab.com/firefighters2/toolx-backend#readme"
+}
